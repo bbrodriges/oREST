@@ -1,7 +1,7 @@
 oREST
 =====
 
-oREST is a small and simple Objective-C library to send HTTP requests.
+oREST ("o" for greek "omicron" or "objective") is a small and simple Objective-C library to send HTTP requests.
 
 Example
 ------------
